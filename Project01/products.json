@@ -1,0 +1,156 @@
+[
+  {
+    "id": "P001",
+    "name": "BU Shirt Est. 1969",
+    "price": "₱300.00",
+    "image": "accessories1.jpg",
+    "page": "product-details-accessories.html"
+  },
+  {
+    "id": "P002",
+    "name": "Tatak Bueño Cap",
+    "price": "₱200.00",
+    "image": "accessories2.jpg",
+    "page": "product-details-accessories.html"
+  },
+  {
+    "id": "P003",
+    "name": "BU Keychain",
+    "price": "₱100.00",
+    "image": "accessories3.jpg",
+    "page": "product-details-accessories.html"
+  },
+  {
+    "id": "P004",
+    "name": "Pin",
+    "price": "₱120.00",
+    "image": "accessories4.jpg",
+    "page": "product-details-accessories.html"
+  },
+  {
+    "id": "P005",
+    "name": "Blue Lanyard",
+    "price": "₱120.00",
+    "image": "lanyard1.jpg",
+    "page": "product-details-lanyard.html"
+  },
+  {
+    "id": "P006",
+    "name": "BUCIT Lanyard",
+    "price": "₱120.00",
+    "image": "lanyard2.jpg",
+     "page": "product-details-lanyard.html"
+  },
+  {
+    "id": "P007",
+    "name": "BUCL Lanyard",
+    "price": "₱100.00",
+    "image": "lanyard3.jpg",
+     "page": "product-details-lanyard.html"
+  },
+  {
+    "id": "P008",
+    "name": "BUCN Lanyard",
+    "price": "₱130.00",
+    "image": "lanyard4.jpg",
+     "page": "product-details-lanyard.html"
+  },
+  {
+    "id": "P009",
+    "name": "BU Polangui",
+    "price": "₱40.00",
+    "image": "plate1.jpg",
+     "page": "product-details-plates.html"
+  },
+  {
+    "id": "P010",
+    "name": "BU Guinobatan",
+    "price": "₱40.00",
+    "image": "plate2.jpg",
+     "page": "product-details-plates.html"
+  },
+  {
+    "id": "P011",
+    "name": "BU Gubat",
+    "price": "₱40.00",
+    "image": "plate3.jpg",
+     "page": "product-details-plates.html"
+  },
+  {
+    "id": "P012",
+    "name": "BU Tabaco",
+    "price": "₱40.00",
+    "image": "plate4.jpg",
+    "page": "product-details-plates.html"
+  },
+  {
+    "id": "P013",
+    "name": "BUCE",
+    "price": "₱40.00",
+    "image": "plate5.jpg",
+    "page": "product-details-plates.html"
+  },
+  {
+    "id": "P014",
+    "name": "BUCS",
+    "price": "₱40.00",
+    "image": "plate6.jpg",
+    "page": "product-details-plates.html"
+  },
+  {
+    "id": "P015",
+    "name": "BUCSSP",
+    "price": "₱40.00",
+    "image": "plate7.jpg",
+    "page": "product-details-plates.html"
+  },
+  {
+    "id": "P016",
+    "name": "BUCBEM",
+    "price": "₱40.00",
+    "image": "plate8.jpg",
+    "page": "product-details-plates.html"
+  },
+  {
+    "id": "P017",
+    "name": "BUCM",
+    "price": "₱40.00",
+    "image": "plate9.jpg",
+    "page": "product-details-plates.html"
+  },
+  {
+    "id": "P018",
+    "name": "BUCIT",
+    "price": "₱40.00",
+    "image": "plate10.jpg",
+    "page": "product-details-plates.html"
+  },
+  {
+    "id": "P019",
+    "name": "BUCENG",
+    "price": "₱40.00",
+    "image": "plate11.jpg",
+    "page": "product-details-plates.html"
+  },
+  {
+    "id": "P020",
+    "name": "Seal & Plate",
+    "price": "₱100.00",
+    "image": "seals1.jpg",
+    "page": "product-details-plates.html"
+  },
+  {
+    "id": "P021",
+    "name": "Seal Only",
+    "price": "₱60.00",
+    "image": "seals2.jpg",
+     "page": "product-details-plates.html"
+  },
+  {
+    "id": "P022",
+    "name": "School Uniform",
+    "price": "₱950.00",
+    "image": "uniform1.jpg",
+    "page": "product-details-uniform.html"
+  }
+]
